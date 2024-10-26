@@ -3,3 +3,4 @@ proyecto materia despliegue de aplicaciones
 
 ## Desarrolladores
 Paul Guzman - 201011628
+Sonia Olaya - 202324472
