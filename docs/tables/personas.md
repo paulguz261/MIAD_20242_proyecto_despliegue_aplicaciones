@@ -2,7 +2,7 @@
 
 | Variable            | Descripción                                                                                                           | Tipo de Dato   |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------|----------------|
-| **gender**          | Género del paciente (categorías: "Male", "Female"          ).                                                         | `category`     |
+| **gender**          | Género del paciente (categorías: "Male", "Female","Other"  ).                                                         | `category`     |
 | **age**             | Edad del paciente en años.                                                                                            | `float`        |
 | **hypertension**    | Indica si el paciente tiene hipertensión (0: No, 1: Sí).                                                              | `category`     |
 | **heart_disease**   | Indica si el paciente tiene alguna enfermedad cardíaca (0: No, 1: Sí).                                                | `category`     |
