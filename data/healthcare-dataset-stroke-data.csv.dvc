@@ -1,0 +1,5 @@
+outs:
+- md5: 3f25a4c2f2963d969e1a156c08968577
+  size: 316971
+  hash: md5
+  path: healthcare-dataset-stroke-data.csv

@@ -1,0 +1,4 @@
+[core]
+    remote = fuentelocal
+['remote "fuentelocal"']
+    url = ../%TEMP%/dvcstore
