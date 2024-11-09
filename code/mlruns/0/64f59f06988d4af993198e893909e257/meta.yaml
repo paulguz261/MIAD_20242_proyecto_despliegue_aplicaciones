@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sonia.olaya/OneDrive%20-%20Universidad%20de%20los%20andes/Maestria/SEMESTRE%20III/Despliegue%20Soluciones%20Analiticas/Proyecto/MIAD_20242_proyecto_despliegue_aplicaciones/code/mlruns/0/64f59f06988d4af993198e893909e257/artifacts
+end_time: 1731167974601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64f59f06988d4af993198e893909e257
+run_name: MLflow CE XGBoost
+run_uuid: 64f59f06988d4af993198e893909e257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167875603
+status: 3
+tags: []
+user_id: sonia.olaya
