@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e838516e6c834f4dae622102bf3b2f7f/artifacts
+deleted_time: 1731177017813
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e838516e6c834f4dae622102bf3b2f7f
+run_name: MLflow CE XGBoost-Best trial
+run_uuid: e838516e6c834f4dae622102bf3b2f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731176857101
+status: 1
+tags: []
+user_id: sonia.olaya

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d65aed36504e45af958c3cdbb160f6d9/artifacts
+end_time: 1731185105211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d65aed36504e45af958c3cdbb160f6d9
+run_name: MLflow CE XGBoost-Undersampling
+run_uuid: d65aed36504e45af958c3cdbb160f6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731185099212
+status: 3
+tags: []
+user_id: sonia.olaya
