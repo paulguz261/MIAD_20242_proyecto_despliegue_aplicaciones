@@ -8,8 +8,10 @@ El repositorio esta organizado en las siguientes carpetas:
 - *data:* Contiene dos carpetas con los datos.
     - *raw_data:* Almacena los datos crudos descargados desde Kaggle.
     - *processed_data:* Contiene los datos procesados y transformados para aplicar análisis exploratorio de datos y preprocesamiento.
-- *models:* Almacena los diferentes modelos predictivos entrenados.
-- *documentation:* Contiene la documentación final del proyecto y diccionarios de los conjuntos de datos empleados.
+- *code:*
+    - *models:* Almacena los notebooks de los modelos predictivos entrenados.
+    - *dash*: Almacena el codigo necesario para la construcción y despliegue del tablero.
+- *docs:* Contiene la documentación final del proyecto y diccionarios de los conjuntos de datos empleados.
 
 ## Como ejecutar el Código
 1. Configurar el entorno de Python:
