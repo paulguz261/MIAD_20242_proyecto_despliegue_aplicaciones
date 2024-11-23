@@ -1,0 +1,66 @@
+# Nombre del paquete
+package_name: modelo-acv
+
+# Archivos de datos
+train_data_file: personas_train.csv
+test_data_file: personas_test.csv
+
+# Variables
+# Objetivo
+target: Attrition_Flag
+
+features:
+  - gender
+  - age
+  - hypertension
+  - heart_disease
+  - ever_married
+  - work_type
+  - Residence_type
+  - avg_glucose_level
+  - bmi
+  - smoking_status
+
+temp_features:
+
+
+# pipelines
+pipeline_name: modelo-prediccion-acv
+pipeline_save_file: modelo-prediccion-acv-output
+
+# fracción del conjunto de prueba
+test_size: 0.33
+
+# semilla
+random_state: 40
+
+# hiperparámetros del modelo 
+objective: binary:logistic
+n_estimators: 312
+max_depth: 9
+learning_rate: 0.078
+subsample: 0.909
+colsample_bytree: 0.895
+min_child_weight: 4
+reg_lambda: 9
+reg_alpha: 6
+
+# variables a mapear
+qual_vars:
+  - stroke
+
+# variables categoricas
+categorical_vars:
+  - gender
+  - ever_married
+  - work_type
+  - Residence_type
+  - smoking_status
+  - stroke
+  - hypertension
+  - heart_disease	
+
+# mapeo de variables
+qual_mappings:
+  Attrited Customer: 1
+  Existing Customer: 0

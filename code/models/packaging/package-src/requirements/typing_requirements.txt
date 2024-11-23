@@ -1,0 +1,5 @@
+# repo maintenance tooling
+black>=23.10.0,<24.0.0
+flake8>=6.0.0,<7.0.0
+mypy>=1.6.0,<2.0.0
+isort>=5.11.4,<6.0.0
