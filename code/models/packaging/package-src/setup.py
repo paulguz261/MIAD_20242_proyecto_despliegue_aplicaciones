@@ -6,7 +6,7 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Metadatos del paquete
-NAME = 'model-abandono'
+NAME = 'modelo-acv'
 DESCRIPTION = "Ejemplo de empaquetamiento de modelo de bank churn."
 URL = ""
 EMAIL = "jf.perez33@uniandes.edu.co"
