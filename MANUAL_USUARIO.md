@@ -59,7 +59,7 @@ pip install dash dash-bootstrap-components plotly pandas
 ## Descripción de Funcionalidades
 
 ### Carga de Datos
-- Permite ingresar datos manualmente a través de la interfaz.
+- Permite ingresar datos manualmente a través de la interfaz o cargar un archivo en formato CSV con las columnas adecuadas.
 
 ### Ingreso de Variables
 Cada campo en la interfaz corresponde a una variable importante:
@@ -165,4 +165,4 @@ Si encuentras problemas o tienes preguntas, contacta:
 ---
 
 ## Licencia y Colaboración
-Este proyecto está licenciado bajo la Universidad de los Andes, en la maestría de inteligencia analítica de datos (MIAD). Se aceptan contribuciones; por favor, abre un [issue] o un pull request en GitHub.
+Este proyecto está licenciado bajo la Universidad de los Andes, en la maestría de inteligencia analítica de datos (MIAD). Se aceptan contribuciones; por favor, abre un pull request en GitHub.
